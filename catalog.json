@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-04-28T12:00:00Z",
+  "version": 2,
+  "updated": "2026-04-28T14:00:00Z",
   "series": [
     {
       "name": "ספיידי וחבריו המופלאים",
@@ -66,7 +66,7 @@
           "thumbnail": "https://img.youtube.com/vi/r21gLoZdyfQ/hqdefault.jpg",
           "language": "he"
         },
-{
+        {
           "id": "Z-NqgEawJvA",
           "title": "הכירו את ספיידי וחבריו המופלאים | אוסף קצרים עונה 2",
           "thumbnail": "https://img.youtube.com/vi/Z-NqgEawJvA/hqdefault.jpg",
@@ -76,6 +76,432 @@
           "id": "sJiuqvN2AzI",
           "title": "ספיידי וחבריו המופלאים",
           "thumbnail": "https://img.youtube.com/vi/sJiuqvN2AzI/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "זהבית ופזית",
+      "artwork": "https://image.tmdb.org/t/p/original/2zym6tVGMYugPWUHGEYko7FwO3y.jpg",
+      "videos": [
+        {
+          "id": "b6VgtnR0Sy8",
+          "title": "זהבית ופזית | עונה 1 פרק 1 | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/b6VgtnR0Sy8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "t7R9eXvK7ck",
+          "title": "זהבית ופזית: עונה 1 פרק 2 המלא | הג'יניות הסודיות שלי | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/t7R9eXvK7ck/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "j3nZNQSIrNY",
+          "title": "זהבית ופזית | עונה 2 פרק 1 | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/j3nZNQSIrNY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "_PghhjFmA34",
+          "title": "זהבית ופזית: עונה 2 פרק 2 המלא | בתוך בקבוק | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/_PghhjFmA34/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "_-U6lyX5UkU",
+          "title": "זהבית ופזית | עונה 3 פרק 1 | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/_-U6lyX5UkU/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "ghWOBDjMoFc",
+          "title": "זהבית ופזית: עונה 3 פרק 2 המלא | ג'יני ליום אחד | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/ghWOBDjMoFc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "WfAPNPXxPgA",
+          "title": "זהבית ופזית | עונה 4 פרק 1 | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/WfAPNPXxPgA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "mYRZ-Wxmetc",
+          "title": "זהבית ופזית: עונה 4 פרק 2 המלא | ברוכים הבאים לשמיי זהרמיי | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/mYRZ-Wxmetc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "UWyqW7M3i70",
+          "title": "זהבית ופזית: שעת סיפור - הג'יניות הסודיות שלי - ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/UWyqW7M3i70/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "3MWJ_UYvliI",
+          "title": "זהבית ופזית: שעת סיפור - תעלומת הבקבוק המכושף - ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/3MWJ_UYvliI/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "eG6UsKR6cTU",
+          "title": "זהבית ופזית | קיץ של הרפתקאות בערוץ ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/eG6UsKR6cTU/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "y7RZJu9YDB8",
+          "title": "זהבית ופזית | שיר הנושא | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/y7RZJu9YDB8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "HiDvI9vg36k",
+          "title": "זהבית ופזית: רגעים חמודים מהעונה הראשונה | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/HiDvI9vg36k/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "מפרץ ההרפתקאות",
+      "artwork": "https://image.tmdb.org/t/p/original/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+      "videos": [
+        {
+          "id": "Nc2jNMOjAQc",
+          "title": "מפרץ ההרפתקאות עונה 1 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/Nc2jNMOjAQc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "JwLvctBX25g",
+          "title": "מפרץ ההרפתקאות עונה 1 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/JwLvctBX25g/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "xOKc-ZJ7Aww",
+          "title": "מפרץ ההרפתקאות עונה 2 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/xOKc-ZJ7Aww/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "6PTouiQpfYE",
+          "title": "מפרץ ההרפתקאות: עונה 2 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/6PTouiQpfYE/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "et7BmI8i2zk",
+          "title": "מפרץ ההרפתקאות עונה 3 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/et7BmI8i2zk/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "HdqxQHfjPJ8",
+          "title": "מפרץ ההרפתקאות: עונה 3 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/HdqxQHfjPJ8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "3saSkmTFCCQ",
+          "title": "מפרץ ההרפתקאות עונה 4 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/3saSkmTFCCQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "ypXxM6a7SCY",
+          "title": "מפרץ ההרפתקאות: עונה 4 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/ypXxM6a7SCY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Lhzz-TwLZmA",
+          "title": "מפרץ ההרפתקאות עונה 5 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/Lhzz-TwLZmA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "oWL2eOaFBJc",
+          "title": "מפרץ ההרפתקאות: עונה 5 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/oWL2eOaFBJc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "s0_rjXWvnpI",
+          "title": "מפרץ ההרפתקאות עונה 6 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/s0_rjXWvnpI/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Wh8KKiP7zRw",
+          "title": "מפרץ ההרפתקאות: עונה 6 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/Wh8KKiP7zRw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "f3SvJMh4uoI",
+          "title": "מפרץ ההרפתקאות עונה 7 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/f3SvJMh4uoI/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "SuCmijv-700",
+          "title": "מפרץ ההרפתקאות: עונה 7 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/SuCmijv-700/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "8BQlmgu15w8",
+          "title": "מפרץ ההרפתקאות: עונה 8 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/8BQlmgu15w8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "kkPM-Vl7TlI",
+          "title": "מפרץ ההרפתקאות: עונה 8 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/kkPM-Vl7TlI/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "B5cU3b7HDKs",
+          "title": "מפרץ ההרפתקאות: עונה 9 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/B5cU3b7HDKs/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "8wBzbQT3zqQ",
+          "title": "מפרץ ההרפתקאות עונה 9 פרק 26 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/8wBzbQT3zqQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "TEsfo_iArdY",
+          "title": "מפרץ ההרפתקאות: עונה 10 פרק 1 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/TEsfo_iArdY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "liaPNJtdHgE",
+          "title": "מפרץ ההרפתקאות: הגורים מצילים עצלן | עונה 10 פרק 2 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/liaPNJtdHgE/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "NP4Pt2VPwYg",
+          "title": "מפרץ ההרפתקאות עונה 10 פרק 13 המלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/NP4Pt2VPwYg/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "0R-q4mLkG7A",
+          "title": "מפרץ ההרפתקאות פרק מלא! | ניק ג'וניור",
+          "thumbnail": "https://img.youtube.com/vi/0R-q4mLkG7A/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "בליפי",
+      "artwork": "https://image.tmdb.org/t/p/original/qYz2tqDDF2XF5mEZCujIVO4dyxB.jpg",
+      "videos": [
+        {
+          "id": "jRm7XPjbUXg",
+          "title": "בליפי בגן החיות | טלוויזיה לילדים",
+          "thumbnail": "https://img.youtube.com/vi/jRm7XPjbUXg/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "No1f1oZjzQ4",
+          "title": "בליפי מבקר את אמא פופ ארטיקים | בליפי בעברית",
+          "thumbnail": "https://img.youtube.com/vi/No1f1oZjzQ4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "yh41LR77mtQ",
+          "title": "הבית הקופץ של בליפי | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/yh41LR77mtQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "NPcZYto7gyc",
+          "title": "ההרפתקה של בליפי באתר הבנייה | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/NPcZYto7gyc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "OzQKMtvQf3w",
+          "title": "מה בליפי יאפה היום? | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/OzQKMtvQf3w/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "GpumIaMVKQ0",
+          "title": "בליפי לומד על מזג האוויר | טלוויזיה לילדים",
+          "thumbnail": "https://img.youtube.com/vi/GpumIaMVKQ0/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "BEq8LqvsuUE",
+          "title": "בליפי לומד לנגן מוזיקה! | טלוויזיה לילדים",
+          "thumbnail": "https://img.youtube.com/vi/BEq8LqvsuUE/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "dlfMFjrHMls",
+          "title": "בעלי חיים בזמן החורף הפראי | טלוויזיה לילדים | בליפי בעברית",
+          "thumbnail": "https://img.youtube.com/vi/dlfMFjrHMls/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "NgreJc5Gzvw",
+          "title": "בליפי בחוות טנאקה | טלוויזיה לילדים",
+          "thumbnail": "https://img.youtube.com/vi/NgreJc5Gzvw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "J2cwJxhIFhc",
+          "title": "מזון בריא בחווה | טלוויזיה לילדים | בליפי בעברית",
+          "thumbnail": "https://img.youtube.com/vi/J2cwJxhIFhc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "4ga8ckxnO3Q",
+          "title": "בליפי באולם באולינג | בליפי בעברית",
+          "thumbnail": "https://img.youtube.com/vi/4ga8ckxnO3Q/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "7fcii2q2bKY",
+          "title": "בליפי לומד צבעים במגרש המשחקים של איימי! | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/7fcii2q2bKY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "eyZVuHQb1s4",
+          "title": "בליפי לומד על יצורי הים | סרטונים חינוכיים בעברית לילדים",
+          "thumbnail": "https://img.youtube.com/vi/eyZVuHQb1s4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "yS0R-H3GXhY",
+          "title": "בליפי עושה בועות לילדים | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/yS0R-H3GXhY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "aNm6e-4lj3M",
+          "title": "בליפי קופץ מצנח | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/aNm6e-4lj3M/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "0u0oYHn8eTw",
+          "title": "בליפי מאכיל את הפינגווינים | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/0u0oYHn8eTw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "z54gzasoBeQ",
+          "title": "בליפי צמחים צבעוניים בחממה | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/z54gzasoBeQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "gkza3MoJmxk",
+          "title": "איך מזג האוויר, בליפי? | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/gkza3MoJmxk/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "leC9AMKI7-o",
+          "title": "בליפי משחק עם חימר צבעוני | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/leC9AMKI7-o/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "GnKDmLvVpyA",
+          "title": "בליפי לומד על הרים | סרטונים אנימציה בעברית לילדים",
+          "thumbnail": "https://img.youtube.com/vi/GnKDmLvVpyA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "VzX56lKn-hw",
+          "title": "לימוד על פירות וירקות בחווה | סרטונים חינוכיים לילדים בעברית",
+          "thumbnail": "https://img.youtube.com/vi/VzX56lKn-hw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "wtuWCVsTa1g",
+          "title": "הרפתקאות בגבעה | בליפי וונדרס בעברית",
+          "thumbnail": "https://img.youtube.com/vi/wtuWCVsTa1g/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "חתלתולי העל",
+      "artwork": "https://image.tmdb.org/t/p/original/wpKg2vChRf3AR7xjk6Ae8tmSoKU.jpg",
+      "videos": [
+        {
+          "id": "tBT8wgDNLPk",
+          "title": "חתלתולי העל | חתלתולי העל ושירת הציפורים",
+          "thumbnail": "https://img.youtube.com/vi/tBT8wgDNLPk/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "yuBgv2OMif4",
+          "title": "חתלתולי העל | חתלתולי על ופארק הזומי",
+          "thumbnail": "https://img.youtube.com/vi/yuBgv2OMif4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "HL3breeyOOQ",
+          "title": "חתלתולי העל | חתלתולי העל מצילים את משאית החטיפים",
+          "thumbnail": "https://img.youtube.com/vi/HL3breeyOOQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "qlJ3Xp7q7M4",
+          "title": "חתלתולי העל | חתלתולי על והמהומה במוזיאון",
+          "thumbnail": "https://img.youtube.com/vi/qlJ3Xp7q7M4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "tpXbI0deVTM",
+          "title": "חתלתולי העל | חתלתולי על ומעריץ העל",
+          "thumbnail": "https://img.youtube.com/vi/tpXbI0deVTM/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "bJYVUoPhQfA",
+          "title": "חתלתולי העל | חתלתולי על והבועות הבעייתיות",
+          "thumbnail": "https://img.youtube.com/vi/bJYVUoPhQfA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Z9BIdQYB-_0",
+          "title": "חתלתולי העל | חתלתולי על ומר ירוקי הנעדר",
+          "thumbnail": "https://img.youtube.com/vi/Z9BIdQYB-_0/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "6XnjMv0r9vU",
+          "title": "חתלתולי העל | חתלתולי על ושודד ההופעות",
+          "thumbnail": "https://img.youtube.com/vi/6XnjMv0r9vU/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "6gvyVbXt6OE",
+          "title": "חתלתולי העל | חתלתולי על ועץ הגבינות",
+          "thumbnail": "https://img.youtube.com/vi/6gvyVbXt6OE/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "s5Gio8pMW04",
+          "title": "חתלתולי העל | חתלתולי על ומחליקי החמאה",
+          "thumbnail": "https://img.youtube.com/vi/s5Gio8pMW04/hqdefault.jpg",
           "language": "he"
         }
       ]
