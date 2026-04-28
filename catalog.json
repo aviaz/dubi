@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "updated": "2026-04-28T12:00:00Z",
+  "series": [
+    {
+      "name": "ספיידי וחבריו המופלאים",
+      "artwork": "https://image.tmdb.org/t/p/original/vkEEslWPNaRdFLMFnKNneOHnjKb.png",
+      "videos": [
+        {
+          "id": "3nWFZA0B3MY",
+          "title": "ספיידי וחבריו המופלאים | שצף קצף",
+          "thumbnail": "https://img.youtube.com/vi/3nWFZA0B3MY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "9qZJ1RWqAEk",
+          "title": "ספיידי וחבריו המופלאים | קצרים",
+          "thumbnail": "https://img.youtube.com/vi/9qZJ1RWqAEk/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "5EW9xAvRc3Q",
+          "title": "ספיידי וחבריו המופלאים | הרפתקה באנטארקטיקה",
+          "thumbnail": "https://img.youtube.com/vi/5EW9xAvRc3Q/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "IGC2RAoDDMU",
+          "title": "ספיידי וחבריו המופלאים | עכבישים נגד קרנף",
+          "thumbnail": "https://img.youtube.com/vi/IGC2RAoDDMU/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "IRs9kDk5HCA",
+          "title": "ספיידי וחבריו המופלאים | סיפורו של זולא",
+          "thumbnail": "https://img.youtube.com/vi/IRs9kDk5HCA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "a2J9Rlkm-bo",
+          "title": "ספיידי וחבריו המופלאים | שלד סטאמפ",
+          "thumbnail": "https://img.youtube.com/vi/a2J9Rlkm-bo/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "kfCmlBHM0Ho",
+          "title": "ספיידיו וחבריו המופלאים | התמנונה הענקית",
+          "thumbnail": "https://img.youtube.com/vi/kfCmlBHM0Ho/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "knlEiCNBsgM",
+          "title": "הכירו את ספיידי וחבריו המופלאים | צוות ספיידי",
+          "thumbnail": "https://img.youtube.com/vi/knlEiCNBsgM/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "oEJCoEwHaJY",
+          "title": "הכירו את ספיידי וחבריו המופלאים | האלק בא לעזור",
+          "thumbnail": "https://img.youtube.com/vi/oEJCoEwHaJY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "r21gLoZdyfQ",
+          "title": "ספיידי וחבריו המופלאים | השיהוקים של ספין",
+          "thumbnail": "https://img.youtube.com/vi/r21gLoZdyfQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Yd7JRgj8zwo",
+          "title": "ספיידי וחבריו המופלאים | קצרים עונה 3",
+          "thumbnail": "https://img.youtube.com/vi/Yd7JRgj8zwo/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Z-NqgEawJvA",
+          "title": "הכירו את ספיידי וחבריו המופלאים | אוסף קצרים עונה 2",
+          "thumbnail": "https://img.youtube.com/vi/Z-NqgEawJvA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "sJiuqvN2AzI",
+          "title": "ספיידי וחבריו המופלאים",
+          "thumbnail": "https://img.youtube.com/vi/sJiuqvN2AzI/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    }
+  ]
+}
