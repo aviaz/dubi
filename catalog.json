@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-04-28T14:00:00Z",
   "series": [
     {
@@ -304,7 +304,7 @@
     },
     {
       "name": "בליפי",
-      "artwork": "https://image.tmdb.org/t/p/original/qYz2tqDDF2XF5mEZCujIVO4dyxB.jpg",
+      "artwork": "https://yt3.googleusercontent.com/GklrwIq4_hHu6YBh499UiPM66WxzpZVFVgkd3QKOLYQkcywCJLdYe8rdyVZndYnJO-olWd9ISg=s900-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
           "id": "jRm7XPjbUXg",
