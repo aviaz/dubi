@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-05-05T00:00:00Z",
+  "version": 6,
+  "updated": "2026-05-18T00:00:00Z",
   "series": [
     {
       "name": "ספיידי וחבריו המופלאים",
@@ -736,6 +736,54 @@
           "id": "zQhMeX1lrwM",
           "title": "מני ממטרה - מחפשים את ג'רי (פרק 4)",
           "thumbnail": "https://img.youtube.com/vi/zQhMeX1lrwM/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "מספרי משימה",
+      "artwork": null,
+      "videos": [
+        {
+          "id": "26-16M0Rhuo",
+          "title": "מספרי משימה: דפוס של שלוש - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/26-16M0Rhuo/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "grVwPnm4XC4",
+          "title": "מספרי משימה: זזים - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/grVwPnm4XC4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "pGomUm2HpmA",
+          "title": "מספרי משימה - NumberJacks Hebrew 16:9",
+          "thumbnail": "https://img.youtube.com/vi/pGomUm2HpmA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "sdJ9TCw5_v0",
+          "title": "מספרי משימה: תחשוב שוב - S2E7",
+          "thumbnail": "https://img.youtube.com/vi/sdJ9TCw5_v0/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "t_fAS8tHcf8",
+          "title": "מספרי משימה: למעלה ולמטה - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/t_fAS8tHcf8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "TrUCf8Ys5Z4",
+          "title": "מספרי משימה: למעלה ולמטה - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/TrUCf8Ys5Z4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Z7R7uJQf4Tc",
+          "title": "מספרי משימה: צורה יפה - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/Z7R7uJQf4Tc/hqdefault.jpg",
           "language": "he"
         }
       ]
