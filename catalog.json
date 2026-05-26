@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-05-18T00:00:00Z",
+  "version": 9,
+  "updated": "2026-05-26T00:00:00Z",
   "series": [
     {
       "name": "ספיידי וחבריו המופלאים",
@@ -784,6 +784,42 @@
           "id": "Z7R7uJQf4Tc",
           "title": "מספרי משימה: צורה יפה - ערוץ הופ!",
           "thumbnail": "https://img.youtube.com/vi/Z7R7uJQf4Tc/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "אייל גולן – עם ישראל חי",
+      "artwork": "https://img.youtube.com/vi/1HgKB4-kQdA/hqdefault.jpg",
+      "videos": [
+        {
+          "id": "1HgKB4-kQdA",
+          "title": "אייל גולן – עם ישראל חי (Prod.By Offir Cohen)",
+          "thumbnail": "https://img.youtube.com/vi/1HgKB4-kQdA/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "מי שברך לחיילי צה\"ל - נריה גרנות",
+      "artwork": "https://img.youtube.com/vi/UlGy2nPg9uQ/hqdefault.jpg",
+      "videos": [
+        {
+          "id": "UlGy2nPg9uQ",
+          "title": "מי שברך לחיילי צה\"ל - נריה גרנות (קליפ וידאו) | Mi She'Berach l'Tzahal - Nerya Granot",
+          "thumbnail": "https://img.youtube.com/vi/UlGy2nPg9uQ/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
+    {
+      "name": "גל סינואני - מחרוזת אל תירא ישראל",
+      "artwork": "https://img.youtube.com/vi/XPn4bXHPZ3Y/hqdefault.jpg",
+      "videos": [
+        {
+          "id": "XPn4bXHPZ3Y",
+          "title": "גל סינואני - מחרוזת אל תירא ישראל",
+          "thumbnail": "https://img.youtube.com/vi/XPn4bXHPZ3Y/hqdefault.jpg",
           "language": "he"
         }
       ]
