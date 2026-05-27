@@ -1,7 +1,175 @@
 {
-  "version": 9,
-  "updated": "2026-05-26T00:00:00Z",
+  "version": 10,
+  "updated": "2026-05-27T00:00:00Z",
   "series": [
+    {
+      "name": "מטוסי על",
+      "artwork": "https://image.tmdb.org/t/p/original/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
+      "videos": [
+        {
+          "id": "dzWnkla9fY4",
+          "title": "מטוסי על - אבידה באוורגליידס - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/dzWnkla9fY4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "F8jIT8fhEbo",
+          "title": "מטוסי על - בוריטו משובח - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/F8jIT8fhEbo/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "NHrry1hAj_c",
+          "title": "מטוסי על - גורי על - ענני צבע מעופפים",
+          "thumbnail": "https://img.youtube.com/vi/NHrry1hAj_c/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "YlZNHdFNM0Y",
+          "title": "מטוסי על - המצוד אחרי ביצת הדינזאור - עונה 9 - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/YlZNHdFNM0Y/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "510TJu0vjBc",
+          "title": "מטוסי על - העפיפון הנכון - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/510TJu0vjBc/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "u2lcgG5sFgw",
+          "title": "מטוסי על - המופע הגדול - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/u2lcgG5sFgw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "FItsm3eP2pM",
+          "title": "מטוסי על - כוח טורבו - אל תפוצץ לי את הבועה - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/FItsm3eP2pM/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "flyOzdH-NlE",
+          "title": "מטוסי על - כוח טורבו - לקפוץ לתוך הבוץ - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/flyOzdH-NlE/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Xcrm43O3fbY",
+          "title": "מטוסי על - כוח טורבו - ניצחון הטרקטור - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/Xcrm43O3fbY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "YbKbLe-APhw",
+          "title": "מטוסי על - מוצאים שועלי מדבר - עונה 9 - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/YbKbLe-APhw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "KsdEm5lowJQ",
+          "title": "מטוסי על - צוללים בענק - עונה 9 - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/KsdEm5lowJQ/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "_RUaP6JSaUY",
+          "title": "מטוסי על - עונה 3 - פרק 1 - גיבורי סוסי הפרא",
+          "thumbnail": "https://img.youtube.com/vi/_RUaP6JSaUY/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "EZKtbY5jsZA",
+          "title": "מטוסי על - עונה 3 - פרק 3 - שיגור הבורסק",
+          "thumbnail": "https://img.youtube.com/vi/EZKtbY5jsZA/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Z89-cH6340o",
+          "title": "מטוסי על - עונה 3 - פרק 5 - תיק המזוודה האבודה",
+          "thumbnail": "https://img.youtube.com/vi/Z89-cH6340o/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "ESB_EDsr_GI",
+          "title": "מטוסי על - עונה 3 - פרק 8 - כיף בפיליפינים",
+          "thumbnail": "https://img.youtube.com/vi/ESB_EDsr_GI/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "R6wX-NPWSYw",
+          "title": "מטוסי על - עונה 3 - פרק 9 - דרמת הברווזים",
+          "thumbnail": "https://img.youtube.com/vi/R6wX-NPWSYw/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "Uc2Wwi0Dzog",
+          "title": "מטוסי על - עונה 6 פרק 1 - גבורי תרגיל האש - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/Uc2Wwi0Dzog/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "IfuOnQilZ3Y",
+          "title": "מטוסי על - עונה 8 גיבורים חשמליים - פרק 1 - רכבת הרים לקטנטנים - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/IfuOnQilZ3Y/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "CoGpatKPfL4",
+          "title": "מטוסי על - עונה 8 גיבורים חשמליים - פרק 2 - הרפתקה חשמלית באמזונס - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/CoGpatKPfL4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "f1GiCJYtfOs",
+          "title": "מטוסי על - עונה 8 גיבורים חשמליים - פרק 3 - בעקבות הכלב הרובוטי - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/f1GiCJYtfOs/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "qCKa2-DNYqg",
+          "title": "מטוסי על גורי על - פרק 1 - יום מטוסי על - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/qCKa2-DNYqg/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "cSu3wGNamy4",
+          "title": "מטוסי על גורי על - פרק 2 - חילוץ פרפרים - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/cSu3wGNamy4/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "eoNwDR-w7g8",
+          "title": "מטוסי על גורי על - פרק 3 - התפרעות הפסטה בפיזה - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/eoNwDR-w7g8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "RFam-9VkfE8",
+          "title": "מטוסי על גורי על - פרק 4 - ניצחון הסביבון",
+          "thumbnail": "https://img.youtube.com/vi/RFam-9VkfE8/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "oG1VoulH_0c",
+          "title": "מטוסי על גורי על - פרק 5 - משלוח גור הנמרים",
+          "thumbnail": "https://img.youtube.com/vi/oG1VoulH_0c/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "wIjajms3kpM",
+          "title": "מטוסי על: גורי על יוצאים להרפתקה - פרק 1 - טבע הפנדות - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/wIjajms3kpM/hqdefault.jpg",
+          "language": "he"
+        },
+        {
+          "id": "_NCa_m6uDpU",
+          "title": "מטוסי על גורי על יוצאים להרפתקה - פרק 3 - בית הספר המלכותי לאילוף כלבים - ערוץ הופ!",
+          "thumbnail": "https://img.youtube.com/vi/_NCa_m6uDpU/hqdefault.jpg",
+          "language": "he"
+        }
+      ]
+    },
     {
       "name": "ספיידי וחבריו המופלאים",
       "artwork": "https://upload.wikimedia.org/wikipedia/he/a/a3/%D7%A1%D7%A4%D7%99%D7%99%D7%93%D7%99_%D7%95%D7%97%D7%91%D7%A8%D7%99%D7%95_%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%90%D7%99%D7%9D_%D7%9C%D7%95%D7%92%D7%95.png",
